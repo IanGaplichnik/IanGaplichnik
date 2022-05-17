@@ -31,7 +31,7 @@
   </div>
   
 
-<h3>Connect with me</h3>
+<h3>Contact links</h3>
 <div>
   &emsp;<a href="https://www.linkedin.com/in/ian-gaplichnik-686724b1/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height ="40px" width="40px"/>
