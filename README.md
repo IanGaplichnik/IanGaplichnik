@@ -8,7 +8,7 @@
 
 <h2>Quick recap</h2>
 
-<p>&emsp;• 👷 Actively working on <a href="https://github.com/IanGaplichnik/ft_printf">printf</a> implementation in C</p>
+<p>&emsp;• 👷 Actively working on <a href="https://github.com/IanGaplichnik/42_Filler">Filler</a> project in C an Python!</p>
 <p>&emsp;• 📖  Meanwhile completing the <a href="https://fullstackopen.com/en/">Full Stack Open</a> course. Follow my progress <a href="https://github.com/IanGaplichnik/HY_FSO">here!</a> </p>
 <p>&emsp;• 🔥 Most of my works are publicly available on Github!</p>
 <p>&emsp;• 📩 I am open for an internship!</p>
