@@ -1,29 +1,21 @@
-<div align="center">
-<img src="https://github.com/IanGaplichnik/IanGaplichnik/blob/main/hello_gif.gif" />
-</div>
-
 <h1>Hi there 👋 I'm Ian</h1>
 
-<p>&emsp;Currently I am studying at <a href="https://www.hive.fi/">Hive Helsinki</a> :honeybee:</p>
-
-<h2>Quick recap</h2>
-
-<p>&emsp;• 🔥 Most of my works are publicly available on Github!</p>
-<p>&emsp;• 📩 I am open for an junior position in Software Engineering!</p>
-<p>&emsp;• I speak English 🇬🇧, Russian 🇷🇺 and Finnish 🇫🇮
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=IanGaplichnik&show_icons=true&theme=react" height="150px"/>           
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IanGaplichnik&show_icons=true&theme=react" height="150px"/>
-</div>
+<p>&emsp;I am a <a href="https://www.hive.fi/">Hive Helsinki</a> graduate :honeybee: and an intern at <a href="https://www.nokia.com/networks/mobile-networks/">Nokia Solutions and Network</p>
+<p>&emsp;</p>
+<p>&emsp;Check out my projects: 
+<p>&emsp;&emsp;<a href="https://github.com/IanGaplichnik/42_Filler">Filler</a> is a bot, playing tetris-like game
+<p>&emsp;&emsp;<a href="https://github.com/HenronenGIT/lem-in">Lem-in</a> is a path-finding algorithm, made in pairs</p>
+<p>&emsp;</p>
+<p>&emsp;📩 I am open for an junior position in Software Engineering!</p>
+<p>&emsp;I speak English 🇬🇧, Russian 🇷🇺 and basic Finnish 🇫🇮 </p>
 
 <h2>Current stack</h2>
 <div>
-  &emsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40px" width="40px" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="40px" width="40px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="40px" width="40px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40px" width="40px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"  height="40px" width="40px"/>
+  &emsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40px" width="40px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40px" width="40px" />  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="40px" width="40px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" height="40px" width="40px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40px" width="40px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40px" width="40px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40px" width="40px" />
   </div>
