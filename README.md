@@ -9,7 +9,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 I speak English 🇬🇧, Russian 🇷🇺 and Finnish 🇫🇮\
-I am a <a href="https://www.hive.fi/">Hive Helsinki</a> graduate :honeybee: and an Embedded SW Developer at <a href="https://www.nokia.com/networks/mobile-networks/">Nokia Solutions and Network</a>\
+I am a <a href="https://www.hive.fi/">Hive Helsinki</a> graduate :honeybee: and an Embedded SW Developer at <a href="https://www.nokia.com/networks/mobile-networks/">Nokia Solutions and Network</a>
 
 ### Connect with Me
 
