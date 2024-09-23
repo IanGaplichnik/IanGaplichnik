@@ -8,9 +8,8 @@
 <p>&emsp;&emsp;<a href="https://github.com/IanGaplichnik/TheWeatherReport_bot">TheWeather_bot</a> is your telegram helper, which will show the weather in you city!</p>
 
 ### 👨🏻‍💻 &nbsp;About Me
-👌 &nbsp;I speak English 🇬🇧, Russian 🇷🇺 and Finnish 🇫🇮\
-💡 &nbsp;I like to explore new technologies and develop software solutions\
-🎓 &nbsp;I am a <a href="https://www.hive.fi/">Hive Helsinki</a> graduate :honeybee: and an Embedded SW Developer at <a href="https://www.nokia.com/networks/mobile-networks/">Nokia Solutions and Network</a>\
+I speak English 🇬🇧, Russian 🇷🇺 and Finnish 🇫🇮\
+I am a <a href="https://www.hive.fi/">Hive Helsinki</a> graduate :honeybee: and an Embedded SW Developer at <a href="https://www.nokia.com/networks/mobile-networks/">Nokia Solutions and Network</a>\
 
 ### Connect with Me
 
